@@ -1,0 +1,20 @@
+
+// Comments start with "//"
+// Lines can be left blank as well
+
+// The proper format to add a question is:
+// question ; correct answer ; wrong answer ; wrong answer ; wrong answer
+// Each term is separated with a colon
+
+// This file comes with 10 FOSS related questions pre-made
+
+Which data type is used to create a variable that should store text? ; String ; myString ; txt ; string
+How do you create a variable with the numeric value 5? ; int x =5 ; float x =5 ; num x =5 ; x = 5
+Which method can be used to find the length of a string? ; length() ; len() ; getSize() ; getlength()
+Which method can be used to return a string in upper case letters? ; toUpperCase() ; tuc() ; upperCase() ; touppercase()
+How do you create a method in Java? ; methodName() ; methodName[] ; methodName. ; (methodName)
+Which keyword is used to create a class in Java? ; class ; MyClass ; class() ; className
+Which keyword is used to import a package from the Java API library? ; import ; getlib ; lib ; package
+How do you start writing a while loop in Java? ; while(x > y) ; while x > y ; x > y while { ; while x > y {
+Which statement is used to stop a loop? ; break ; return ; stop ; exit
+The Java compiler generates? ; byte code ; machine code ; source code ; HTML
